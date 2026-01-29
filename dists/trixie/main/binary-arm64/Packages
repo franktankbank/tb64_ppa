@@ -1,3 +1,18 @@
+Package: tb64-archive-keyring
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Frank Froggins <pearlover912@gmail.com>
+Priority: optional
+Section: misc
+Filename: pool/main/t/tb64-archive-keyring/tb64-archive-keyring_1.0.0-1_all.deb
+Size: 1464
+SHA256: af9c3b96adbe0028141b2c091f5c23987b99a9db37c493c0862ed6bbbe8db294
+SHA1: ad218d089fde8d437ae4f2698227a774b6edbd70
+MD5sum: b86754f9263c0665339d33f00b53b2a8
+Description: OpenPGP archive certificates of tb64
+ tb64 digitally signs its Release files. This package
+ contains the archive certificates used for that.
+
 Package: tb64-cpp
 Architecture: arm64
 Priority: optional
