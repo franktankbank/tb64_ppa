@@ -1,0 +1,7 @@
+Codename: trixie
+Suite: stable
+Architectures: source amd64 arm64 
+Components: main
+Contents:
+SignWith: 0346AB60FAFF50D9759A52FFD85FC9EFCEFF137C
+

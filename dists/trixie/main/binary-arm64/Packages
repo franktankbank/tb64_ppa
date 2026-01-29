@@ -1,0 +1,15 @@
+Package: tb64-cpp
+Architecture: arm64
+Priority: optional
+Section: utils
+Filename: pool/main/t/tb64-cpp/tb64-cpp_0.1.1_arm64.deb
+Size: 222730
+SHA256: 5be53c444b0b5c08272406d0dcfb3afa1f2fd4563b0380dc9ac08197eda1e06f
+SHA1: e078b71583d41cdef6f2bae2650c1ad422f4ca9f
+MD5sum: ef9ad3a11af89125bf907ab56c55951c
+Description: TB64 - A niche tool to encode text in base64 3 times. (cpp version)
+Homepage: https://github.com/franktankbank/tb64-cpp
+Maintainer: pearlover912@gmail.com
+Version: 0.1.1
+Installed-Size: 524
+
